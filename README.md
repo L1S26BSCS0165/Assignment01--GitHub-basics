@@ -13,6 +13,7 @@ int main() {
         sum = sum + i;
         
     }
+    
 
     cout << "Sum of first 50 natural numbers (loop): "
          << sum << endl;
